@@ -1,0 +1,1 @@
+"""Script that serves as the entry point for model training"""

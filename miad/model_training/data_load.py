@@ -1,0 +1,1 @@
+"""Script that serves for data loading"""
