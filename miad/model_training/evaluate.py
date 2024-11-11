@@ -6,7 +6,7 @@ import pandas as pd
 from pathlib import Path
 
 import typer
-from sklearn.metrics import confusion_matrix, roc_auc_score
+from sklearn.metrics import roc_auc_score
 from typing import Dict
 import yaml
 
