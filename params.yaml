@@ -44,3 +44,9 @@ evaluate:
   reports_dir: reports
   metrics_file: 'metrics.json'
   confusion_matrix_image: 'confusion_matrix.png'
+  roc_curve_image: 'roc_curve.png'
+  pr_curve_image: 'pr_curve.png'
+  ks_curve_image: 'ks_curve.png'
+  gains_curve_image: 'gains_curve.png'
+  lift_curve_image: 'lift_curve.png'
+  calibration_curve_image: 'calibration_curve.png'
